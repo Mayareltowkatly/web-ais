@@ -1,0 +1,94 @@
+.test1{
+
+color:rgb(1, 1, 4);
+font-family: Georgia, 'Times New Roman', Times, serif ;
+line-height: 28px;
+font-size: 20px;
+font-weight: 300px;
+
+}
+.mm{
+    color: rgb(33, 33, 95);
+    font-weight: bolder;
+    font-size: 35px;
+    line-height: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.m{
+    color: rgb(83, 83, 120);
+    font-size: 25px;
+    
+}
+.test2{
+color: rgb(77, 77, 80);
+font-family:Georgia, 'Times New Roman', Times, serif ;
+font-size: 20px;
+line-height:30px;
+
+}
+.test3{
+color: rgb(17, 17, 67);
+font-size: 30px;
+font-family: 'Times New Roman', Times, serif;
+font-weight:500px;
+font-weight: bold;
+}
+
+.x{
+color: rgb(21, 21, 44);
+font-size: large;
+font-family: Georgia, 'Times New Roman', Times, serif;
+line-height: 20px;
+font-weight: 400;
+    
+}
+.test4{
+color: rgb(17, 17, 67);
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-weight: bold;
+font-size: 30px;
+}
+.test5{
+color: rgb(2, 1, 8);
+font-family: Georgia, 'Times New Roman', Times, serif;
+line-height: 25px;
+font-size: medium;
+font-weight: 600;
+}
+.test6{
+color: black;
+font-family: Georgia, 'Times New Roman', Times, serif;
+line-break: auto;
+line-height: 15px;
+font-size: 20px;
+font-weight:lighter;
+}
+
+.test7{
+color: rgb(28, 28, 57);
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-weight: 600;
+font-style: initial;
+font-size: 18px;
+line-height: 25px;
+}
+.test8{
+color: rgb(17, 17, 67);
+font-family: 'Times New Roman', Times, serif;
+font-weight: bolder;
+font-size: 25px;
+
+}
+.z{
+color: black;
+font-family: Georgia, 'Times New Roman', Times, serif;
+line-height: 27px;
+font-size: 20px;
+font-weight: 400px;
+
+}
+
+
+
+
+
